@@ -1,10 +1,3 @@
-#install.packages('rsconnect')
-#install.packages("shinydashboard")
-#install.packages('shiny')
-#rsconnect::setAccountInfo(name='mosquitornai',
-#                          token='223D307F7A3A98611034F0F74E5B2159',
-#                         secret='QdSf1RKMcAp+XSGzRS4QxBMrs4gZLcYYDjrqbxQT')
-#rsconnect::deployApp('')
 #setwd('C:\\RNAidbtest\\RNAidb2')
 
 # Open libraries
