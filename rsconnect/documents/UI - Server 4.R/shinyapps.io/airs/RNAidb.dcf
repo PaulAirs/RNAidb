@@ -1,0 +1,13 @@
+name: RNAidb
+title: RNAidb
+username:
+account: airs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 228830
+bundleId: 6739381
+url: https://airs.shinyapps.io/rnaidb/
+when: 1673878712.63474
+lastSyncTime: 1673878712.63476
+asMultiple: FALSE
+asStatic: FALSE

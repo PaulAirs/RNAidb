@@ -1,0 +1,12 @@
+name: RNAidb
+title: RNAidb
+username:
+account: mosquitornai
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 228830
+bundleId: 1061421
+url: https://airs.shinyapps.io/RNAidb
+when: 1509985220.40808
+asMultiple: FALSE
+asStatic: FALSE
